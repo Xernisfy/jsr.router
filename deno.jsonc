@@ -1,4 +1,7 @@
 {
+  "name": "@xernisfy/router",
+  "version": "1.0.0",
+  "exports": "./mod.ts",
   "tasks": {
     "check": "deno fmt -q; deno lint -q; deno check -q **/*.ts*"
   }
