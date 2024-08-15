@@ -1,6 +1,6 @@
 /**
- * @module
  * Simple Router for use with `Deno.serve` using URL-patterns.
+ * @module
  *
  * Add routes using `get`, `patch`, `post`, `put` or `delete` methods or using `route` to handle multiple methods for the same route.
  *
